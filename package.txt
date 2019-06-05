@@ -1,0 +1,8 @@
+NAME=sdl2-mixer
+VERSION=2.0.4
+REVISION=1
+LICENSE=Zlib
+SRC=https://www.libsdl.org/projects/SDL_mixer/release/SDL2_mixer-2.0.4.tar.gz
+SRCMD5=a36e8410cac46b00a4d01752b32c3eb1
+BUILDDEPS=sdl2
+INSTALLDEPS=sdl2
